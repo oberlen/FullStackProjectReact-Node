@@ -1,0 +1,11 @@
+a {
+  text-decoration: none;
+}
+
+.edit {
+  color: white;
+}
+
+.logout_button {
+  background-color: red;
+}
